@@ -5,8 +5,8 @@ It is a **React Counter Application** with both **Class Component** and **Functi
 
 ## 🚀 Live Demo
 
-- **Netlify Deploy:** [Live App on Netlify](https://your-netlify-link-here.netlify.app)  
-- **Vercel Deploy:** [Live App on Vercel](https://your-vercel-link-here.vercel.app)  
+- **Netlify Deploy:** [Live App on Netlify](https://react-counter-tutedude.netlify.app/)  
+- **Vercel Deploy:** [Live App on Vercel](https://react-counter-app-tutedude.vercel.app/)  
 
 ## ✨ Features
 - Main heading: **"Assignment-2 Counter Application"**
