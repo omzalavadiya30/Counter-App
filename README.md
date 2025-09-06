@@ -1,4 +1,4 @@
-# Assignment-1 Counter Application
+# Assignment-2 Counter Application
 
 This project is created as part of **Assignment-2**.  
 It is a **React Counter Application** with both **Class Component** and **Functional Component** counters.
